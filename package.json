@@ -1,0 +1,24 @@
+{
+  "name": "ember-inspector-prebuilt",
+  "version": "2.0.5",
+  "description": "A pre-built set of distributable assets from the ember.js ember-inspector project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdconaway/ember-inspector-prebuilt.git"
+  },
+  "keywords": [
+    "ember",
+    "ember-inspector",
+    "prebuilt"
+  ],
+  "author": "Michael Conaway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdconaway/ember-inspector-prebuilt/issues"
+  },
+  "homepage": "https://github.com/mdconaway/ember-inspector-prebuilt#readme"
+}
