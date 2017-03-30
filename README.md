@@ -33,7 +33,7 @@ OR:
 - cd into the repo directory
 - Open about:addons using the firefox url bar
 - Select "Install Addon From File"
-- Choose the dist/ember-inspector@version.xpi file
+- Choose the `dist/ember-inspector@<version>.xpi` file
 - You may need to enable installation of unsigned extensions
 
 ### Opera
